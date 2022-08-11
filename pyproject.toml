@@ -9,6 +9,7 @@ python = "^3.10"
 aiogram = {url = "https://github.com/aiogram/aiogram/archive/refs/heads/dev-3.x.zip"}
 asyncio = "^3.4.3"
 aioredis = "^2.0.1"
+asyncpg = "^0.26.0"
 
 [tool.poetry.dev-dependencies]
 
